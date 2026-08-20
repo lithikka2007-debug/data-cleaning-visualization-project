@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+data-cleaning-visualization-project/
+├── student_performance_raw.csv
+├── data_cleaning.py
+├── eda_analysis.py
+├── requirements.txt
+├── README.md
+├── EDA_Report.md
+└── .gitignore
